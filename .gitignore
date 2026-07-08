@@ -1,0 +1,32 @@
+# Compiled class file
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+
+# Log file
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# IDEs (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+
+# BlueJ files
+*.ctxt
+
+# Operating System Files
+Thumbs.db
+Desktop.ini
+.DS_Store

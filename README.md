@@ -1,6 +1,8 @@
 # Gestão de Funcionários
 
-Sistema **ERP** corporativo de Gestão de Funcionários e Departamento Pessoal, construído com a linguagem **Java**, interface gráfica **JavaFX** (estilizada com o tema Nord do design system **AtlantaFX**), persistência **JPA / Hibernate** e banco de dados **PostgreSQL**.
+Sistema ERP para RH e Departamento Pessoal com controle de ponto, folha de pagamento, férias, rescisão e relatórios.
+
+---
 
 ![Login](docs/images/login.png)
 ![Painel de Controle](docs/images/dashboard.png)
